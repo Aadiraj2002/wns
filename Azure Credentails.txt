@@ -20,3 +20,4 @@ database name: sqlpool01
 Applied Skills Storage: https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/
 
 DP-203 Github URL: https://github.com/MicrosoftLearning/dp-203-azure-data-engineer
+.      
